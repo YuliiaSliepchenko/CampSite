@@ -1016,8 +1016,11 @@ body {
 
 .contact-phone { background: linear-gradient(to right, #10b981, #059669); }
 .contact-email { background: linear-gradient(to right, #3b82f6, #2563eb); }
-.contact-telegram { background: linear-gradient(to right, #8b5cf6, #7c3aed); }
+.contact-telegram { background: linear-gradient(to right, #8b5cf6, #8764c2); }
 .contact-location { background: linear-gradient(to right, #f59e0b, #d97706); }
+.contact-instagram { background: linear-gradient(to right, #d30a97, #2330db); }
+.contact-facebook { background: linear-gradient(to right, #0db9e4, #304ccc); }
+.contact-site { background: linear-gradient(to right, #f5e50f, #c2b063); }
 
 .contact-title {
     font-weight: 600;
